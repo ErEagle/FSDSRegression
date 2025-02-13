@@ -1,4 +1,6 @@
 numpy
 pandas
 Flask
+ipykernel
+seaborn
 -e .

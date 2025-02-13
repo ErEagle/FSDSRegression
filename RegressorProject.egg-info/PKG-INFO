@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: RegressorProject
+Version: 0.0.1
+Author: Vines
+Author-email: vines04460@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: Flask
+Requires-Dist: ipykernel
+Requires-Dist: seaborn
